@@ -2,7 +2,11 @@
 
 [Materials](../README.md)
 
-[2026-10-14](#2026-10-14)
+[2026-10-15](#2026-10-15) · [2026-10-14](#2026-10-14)
+
+## 2026-10-15
+
+- [Student Newsletter Events](2026-10-15/student-newsletter-events.png)
 
 ## 2026-10-14
 
