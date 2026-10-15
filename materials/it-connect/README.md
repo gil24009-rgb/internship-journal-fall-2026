@@ -32,4 +32,8 @@ The layout and structure are agreed, but the website is not yet in use. Placehol
 
 [September 14 - October 14, 2026](../../records/2026-09-14_to_2026-10-14.md)
 
-The SharePoint pages are still in development. A reviewer access link has not been provided for this journal.
+## Project link
+
+[IT Connect on SharePoint](https://webmailbyui.sharepoint.com/sites/ITNews)
+
+Access may require a BYU-Idaho account and site permission. As of the October 14 record, the pages are still in development.

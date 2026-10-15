@@ -2,7 +2,7 @@
 
 [Journal home](../README.md) · [Materials](../materials/README.md)
 
-Entries are listed by date, newest first. Daily entries are titled by date; catch-up entries are titled by the period covered. Images appear inside each record.
+Most recent first.
 
 | Period / date | Record |
 | --- | --- |

@@ -1,12 +1,8 @@
 # Fall 2026 IT Internship Journal
 
-Jun Gil · Visual Specialist, BYU-Idaho IT Department
-
 ## Records
 
-[Browse dated blog records](records/README.md), newest first, with images inside each entry.
-
-Latest: [September 14 - October 14, 2026](records/2026-09-14_to_2026-10-14.md)
+[September 14 - October 14, 2026](records/2026-09-14_to_2026-10-14.md)
 
 ## Materials
 
