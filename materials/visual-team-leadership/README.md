@@ -8,3 +8,4 @@
 
 - [Kick-Off Pin](2026-10-14/kick-off-pin.png)
 - [Kick-Off Poster](2026-10-14/kick-off-poster.png)
+- [Kick-Off Poster PDF](2026-10-14/kick-off-poster.pdf)
