@@ -12,6 +12,6 @@ No earlier records yet.
 
 ## Materials
 
-[IT Connect on SharePoint](https://webmailbyui.sharepoint.com/sites/ITNews) · May require a BYU-Idaho account and site permission.
+[IT Connect](https://webmailbyui.sharepoint.com/sites/ITNews)
 
 [Browse supporting materials by project](materials/README.md)

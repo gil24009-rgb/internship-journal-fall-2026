@@ -34,6 +34,4 @@ The layout and structure are agreed, but the website is not yet in use. Placehol
 
 ## Project link
 
-[IT Connect on SharePoint](https://webmailbyui.sharepoint.com/sites/ITNews)
-
-Access may require a BYU-Idaho account and site permission. As of the October 14 record, the pages are still in development.
+[IT Connect](https://webmailbyui.sharepoint.com/sites/ITNews)
