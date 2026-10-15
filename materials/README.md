@@ -19,6 +19,10 @@
 - [CNC Dashboard](ces-ticket-dashboard/2026-10-15/cnc-dashboard.png)
 - [SOC Dashboard](ces-ticket-dashboard/2026-10-15/soc-dashboard.png)
 
+### Department Branding
+
+- [Brand Colors and Typography](department-branding/2026-10-15/brand-colors-and-typography.pdf)
+
 ### Department Newsletter UX/UI and Research
 
 - [Student Newsletter Events](newsletters/2026-10-15/student-newsletter-events.png)
@@ -43,7 +47,6 @@
 - [Full-Time Icons](department-branding/2026-10-14/full-time-icons.png)
 - [Student Icons](department-branding/2026-10-14/student-icons.png)
 - [Logo Explorations](department-branding/2026-10-14/logo-explorations.png)
-- [Brand Colors and Typography](department-branding/2026-10-15/brand-colors-and-typography.pdf)
 
 ### IT Connect Website UX/UI
 
