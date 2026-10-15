@@ -6,11 +6,10 @@
 
 ## 2026-10-15
 
-- [Pin Production Proof](2026-10-15/pin-production-proof.png)
-- [Visual Team Assignments](2026-10-15/visual-team-assignments.png)
+- [Pin Order Proof (Approved)](2026-10-15/pin-order-proof-approved.png)
+- [Visual Team Assignments (Ongoing)](2026-10-15/visual-team-assignments-ongoing.png)
 
 ## 2026-10-14
 
-- [Kick-Off Pin](2026-10-14/kick-off-pin.png)
-- [Kick-Off Poster](2026-10-14/kick-off-poster.png)
-- [Kick-Off Poster PDF](2026-10-14/kick-off-poster.pdf)
+- [Kick-Off Pin (Final)](2026-10-14/kick-off-pin-final.png)
+- [Kick-Off Poster (Final)](2026-10-14/kick-off-poster-final.png)

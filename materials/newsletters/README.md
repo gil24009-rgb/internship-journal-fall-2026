@@ -6,11 +6,11 @@
 
 ## 2026-10-15
 
-- [Student Newsletter Events](2026-10-15/student-newsletter-events.png)
+- [Student Newsletter Events (Draft)](2026-10-15/student-newsletter-events-draft.png)
 
 ## 2026-10-14
 
-- [Full-Time Newsletter](2026-10-14/full-time-newsletter.png)
-- [Student Newsletter](2026-10-14/student-newsletter.png)
-- [Earlier Newsletter Header](2026-10-14/earlier-newsletter-header.png)
-- [Earlier Newsletter Events](2026-10-14/earlier-newsletter-events.png)
+- [Full-Time Newsletter (Draft)](2026-10-14/full-time-newsletter-draft.png)
+- [Student Newsletter (Draft)](2026-10-14/student-newsletter-draft.png)
+- [Earlier Newsletter Header (Reference)](2026-10-14/earlier-newsletter-header-reference.png)
+- [Earlier Newsletter Events (Reference)](2026-10-14/earlier-newsletter-events-reference.png)

@@ -16,56 +16,55 @@
 
 ### CES CNC/SOC Dashboard
 
-- [CNC Dashboard](ces-ticket-dashboard/2026-10-15/cnc-dashboard.png)
-- [SOC Dashboard](ces-ticket-dashboard/2026-10-15/soc-dashboard.png)
+- [CNC Dashboard (Draft)](ces-ticket-dashboard/2026-10-15/cnc-dashboard-draft.png)
+- [SOC Dashboard (Draft)](ces-ticket-dashboard/2026-10-15/soc-dashboard-draft.png)
 
 ### Department Branding
 
-- [Brand Colors and Typography](department-branding/2026-10-15/brand-colors-and-typography.pdf)
+- [Brand Colors and Typography (Draft)](department-branding/2026-10-15/brand-colors-and-typography-draft.pdf)
 
 ### Department Newsletter UX/UI and Research
 
-- [Student Newsletter Events](newsletters/2026-10-15/student-newsletter-events.png)
+- [Student Newsletter Events (Draft)](newsletters/2026-10-15/student-newsletter-events-draft.png)
 
 ### Visual Team Leadership and Production
 
-- [Pin Production Proof](visual-team-leadership/2026-10-15/pin-production-proof.png)
-- [Visual Team Assignments](visual-team-leadership/2026-10-15/visual-team-assignments.png)
+- [Pin Order Proof (Approved)](visual-team-leadership/2026-10-15/pin-order-proof-approved.png)
+- [Visual Team Assignments (Ongoing)](visual-team-leadership/2026-10-15/visual-team-assignments-ongoing.png)
 
 ## 2026-10-14
 
 ### BYUI IT Ticket Dashboard
 
-- [Approved Dashboard Design](byui-ticket-dashboard/2026-10-14/byui-approved-design.png)
-- [Earlier Dashboard](byui-ticket-dashboard/2026-10-14/byui-previous-dashboard.png)
-- [Dashboard Tab Explorations](byui-ticket-dashboard/2026-10-14/dashboard-tab-explorations.png)
-- [Temporary Dashboard](byui-ticket-dashboard/2026-10-14/temporary-dashboard.png)
+- [BYUI Dashboard Design (Approved)](byui-ticket-dashboard/2026-10-14/byui-dashboard-design-approved.png)
+- [Earlier BYUI Dashboard (Reference)](byui-ticket-dashboard/2026-10-14/byui-dashboard-earlier-reference.png)
+- [Dashboard Tabs (Concept)](byui-ticket-dashboard/2026-10-14/dashboard-tabs-concept.png)
+- [BYUI Dashboard (Temporary)](byui-ticket-dashboard/2026-10-14/byui-dashboard-temporary.png)
 
 ### Department Branding
 
-- [Banners](department-branding/2026-10-14/banner-series.png)
-- [Full-Time Icons](department-branding/2026-10-14/full-time-icons.png)
-- [Student Icons](department-branding/2026-10-14/student-icons.png)
-- [Logo Explorations](department-branding/2026-10-14/logo-explorations.png)
+- [Banners (Concept)](department-branding/2026-10-14/banners-concept.png)
+- [Full-Time Icons (Approved)](department-branding/2026-10-14/full-time-icons-approved.png)
+- [Student Icons (Approved)](department-branding/2026-10-14/student-icons-approved.png)
+- [Logo Candidates (Concept)](department-branding/2026-10-14/logo-candidates-concept.png)
 
 ### IT Connect Website UX/UI
 
-- [IT Article Layout](it-connect/2026-10-14/it-article-layout.png)
-- [Onboarding Layout](it-connect/2026-10-14/onboarding-layout.png)
-- [Employee Services Layout](it-connect/2026-10-14/employee-services-layout.png)
-- [Brain Break Team Explorations](it-connect/2026-10-14/brain-break-team-explorations.png)
-- [Brain Break Layout](it-connect/2026-10-14/brain-break-layout.png)
-- [CIO Message Layout](it-connect/2026-10-14/cio-message-layout.png)
+- [IT Article Layout (Draft)](it-connect/2026-10-14/it-article-layout-draft.png)
+- [Onboarding Layout (Draft)](it-connect/2026-10-14/onboarding-layout-draft.png)
+- [Employee Services Layout (Draft)](it-connect/2026-10-14/employee-services-layout-draft.png)
+- [Brain Break Team Designs (Concept)](it-connect/2026-10-14/brain-break-team-designs-concept.png)
+- [Brain Break Layout (Draft)](it-connect/2026-10-14/brain-break-layout-draft.png)
+- [CIO Message Layout (Draft)](it-connect/2026-10-14/cio-message-layout-draft.png)
 
 ### Department Newsletter UX/UI and Research
 
-- [Full-Time Newsletter](newsletters/2026-10-14/full-time-newsletter.png)
-- [Student Newsletter](newsletters/2026-10-14/student-newsletter.png)
-- [Earlier Newsletter Header](newsletters/2026-10-14/earlier-newsletter-header.png)
-- [Earlier Newsletter Events](newsletters/2026-10-14/earlier-newsletter-events.png)
+- [Full-Time Newsletter (Draft)](newsletters/2026-10-14/full-time-newsletter-draft.png)
+- [Student Newsletter (Draft)](newsletters/2026-10-14/student-newsletter-draft.png)
+- [Earlier Newsletter Header (Reference)](newsletters/2026-10-14/earlier-newsletter-header-reference.png)
+- [Earlier Newsletter Events (Reference)](newsletters/2026-10-14/earlier-newsletter-events-reference.png)
 
 ### Visual Team Leadership and Production
 
-- [Kick-Off Pin](visual-team-leadership/2026-10-14/kick-off-pin.png)
-- [Kick-Off Poster](visual-team-leadership/2026-10-14/kick-off-poster.png)
-- [Kick-Off Poster PDF](visual-team-leadership/2026-10-14/kick-off-poster.pdf)
+- [Kick-Off Pin (Final)](visual-team-leadership/2026-10-14/kick-off-pin-final.png)
+- [Kick-Off Poster (Final)](visual-team-leadership/2026-10-14/kick-off-poster-final.png)

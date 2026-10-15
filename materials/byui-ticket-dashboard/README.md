@@ -6,7 +6,7 @@
 
 ## 2026-10-14
 
-- [Approved Dashboard Design](2026-10-14/byui-approved-design.png)
-- [Earlier Dashboard](2026-10-14/byui-previous-dashboard.png)
-- [Dashboard Tab Explorations](2026-10-14/dashboard-tab-explorations.png)
-- [Temporary Dashboard](2026-10-14/temporary-dashboard.png)
+- [BYUI Dashboard Design (Approved)](2026-10-14/byui-dashboard-design-approved.png)
+- [Earlier BYUI Dashboard (Reference)](2026-10-14/byui-dashboard-earlier-reference.png)
+- [Dashboard Tabs (Concept)](2026-10-14/dashboard-tabs-concept.png)
+- [BYUI Dashboard (Temporary)](2026-10-14/byui-dashboard-temporary.png)

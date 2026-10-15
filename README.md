@@ -12,8 +12,8 @@ No earlier records yet.
 
 ## Materials
 
-[IT Connect](https://webmailbyui.sharepoint.com/sites/ITNews)
+[IT Connect (Draft)](https://webmailbyui.sharepoint.com/sites/ITNews)
 
-[Department Branding](materials/department-branding/2026-10-15/brand-colors-and-typography.pdf)
+[Department Branding (Draft)](materials/department-branding/2026-10-15/brand-colors-and-typography-draft.pdf)
 
 [Browse supporting materials by project](materials/README.md)
