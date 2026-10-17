@@ -4,7 +4,13 @@
 
 [IT Connect (Draft)](https://webmailbyui.sharepoint.com/sites/ITNews)
 
-[2026-10-14](#2026-10-14)
+[Onboarding Booking (Approved)](https://bookings.cloud.microsoft/book/BYUIITOnboarding@webmailbyui.onmicrosoft.com/?ismsaljsauthenabled)
+
+[2026-10-17](#2026-10-17) · [2026-10-14](#2026-10-14)
+
+## 2026-10-17
+
+- [Onboarding Booking Calendar (Approved)](2026-10-17/onboarding-booking-calendar-approved.png)
 
 ## 2026-10-14
 

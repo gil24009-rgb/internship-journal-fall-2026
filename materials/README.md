@@ -1,6 +1,6 @@
 # Materials
 
-[2026-10-15](#2026-10-15) · [2026-10-14](#2026-10-14)
+[2026-10-17](#2026-10-17) · [2026-10-15](#2026-10-15) · [2026-10-14](#2026-10-14)
 
 ## Projects
 
@@ -11,6 +11,12 @@
 - [Department Newsletter UX/UI and Research](newsletters/README.md)
 - [Ticket Data Automation](ticket-data-automation/README.md)
 - [Visual Team Leadership and Production](visual-team-leadership/README.md)
+
+## 2026-10-17
+
+### IT Connect Website UX/UI
+
+- [Onboarding Booking Calendar (Approved)](it-connect/2026-10-17/onboarding-booking-calendar-approved.png)
 
 ## 2026-10-15
 

@@ -17,4 +17,6 @@
 
 [Department Branding (Draft)](materials/department-branding/2026-10-15/brand-colors-and-typography-draft.pdf)
 
+[Onboarding Booking (Approved)](https://bookings.cloud.microsoft/book/BYUIITOnboarding@webmailbyui.onmicrosoft.com/?ismsaljsauthenabled)
+
 [Browse supporting materials by project](materials/README.md)
