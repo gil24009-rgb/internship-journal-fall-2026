@@ -4,11 +4,12 @@
 
 ### Newst
 
-[September 14 - October 14, 2026](records/2026-09-14_to_2026-10-14.md)
+[October 16, 2026](records/2026-10-16.md)
 
 ### Recent records
 
-No earlier records yet.
+- [October 15, 2026](records/2026-10-15.md)
+- [September 14 - October 14, 2026](records/2026-09-14_to_2026-10-14.md)
 
 ## Materials
 
