@@ -1,6 +1,6 @@
 # Materials
 
-[2026-10-17](#2026-10-17) · [2026-10-15](#2026-10-15) · [2026-10-14](#2026-10-14)
+[2026-11-05](#2026-11-05) · [2026-10-17](#2026-10-17) · [2026-10-15](#2026-10-15) · [2026-10-14](#2026-10-14)
 
 ## Projects
 
@@ -11,6 +11,19 @@
 - [Department Newsletter UX/UI and Research](newsletters/README.md)
 - [Ticket Data Automation](ticket-data-automation/README.md)
 - [Visual Team Leadership and Production](visual-team-leadership/README.md)
+
+## 2026-11-05
+
+### IT Connect Website UX/UI
+
+- [IT Connect Home (Draft)](it-connect/2026-11-05/it-connect-home-draft.png)
+- [CIO Topic Cards (Draft)](it-connect/2026-11-05/cio-topic-cards-draft.png)
+- [Employee Service Cards (Draft)](it-connect/2026-11-05/employee-service-cards-draft.png)
+- [Training Cards (Draft)](it-connect/2026-11-05/training-cards-draft.png)
+- [Onboarding Task Cards (Draft)](it-connect/2026-11-05/onboarding-task-cards-draft.png)
+- [Onboarding Resources (Draft)](it-connect/2026-11-05/onboarding-resources-draft.png)
+- [Tech News and AI Links (Draft)](it-connect/2026-11-05/tech-news-and-ai-links-draft.png)
+- [Brain Break Page (Draft)](it-connect/2026-11-05/brain-break-page-draft.png)
 
 ## 2026-10-17
 
